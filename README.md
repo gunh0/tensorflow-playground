@@ -12,6 +12,16 @@
 
 
 
+# NHN Toast Forward | 2019.02
+
+- Basic concepts of Machine Learning
+- Convolutional Neural Network(CNN)
+- Fashion-MNIST
+
+
+
+
+
 # TensorFlow Examples
 
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation, for both TF v1 & v2.
